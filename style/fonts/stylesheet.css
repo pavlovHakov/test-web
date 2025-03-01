@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Prata";
+  src: local("Prata"), local("Prata-Regular"),
+    url("Prata.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+/* arial-italic */
+@font-face {
+  font-family: "Arial-italic";
+  src: local("Arial Italic"), local("Arial-ItalicMT"),
+    url("Arial-ItalicMT.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+/* arial-regular */
+@font-face {
+  font-family: "Arial-regular";
+  src: url("ArialMT.eot");
+  src: local("Arial"), local("ArialMT"), url("ArialMT.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+/* arial-bold */
+@font-face {
+  font-family: "Arial-bold";
+  src: url("Arial-BoldMT.eot");
+  src: local("Arial Bold"), local("Arial-BoldMT"),
+    url("Arial-BoldMT.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+}
